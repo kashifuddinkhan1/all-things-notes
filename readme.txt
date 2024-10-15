@@ -1,2 +1,5 @@
 All things Notes !!!!
-Another line after staging
+1. Another line after staging
+2. Second line
+3. Third line
+4. Fourth line
